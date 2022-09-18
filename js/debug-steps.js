@@ -1,6 +1,6 @@
 /* 
 Debug Steps: 
-1. Error check (error reproduce)
+1. Error check (error reproduce).
 2. Check others stuffs on the website
 3. Check Console for error
 4. click on the link of the error (it will take you to the code)
